@@ -1,0 +1,126 @@
+F3090;KLS A;Lo;0;L;;;;;N;;;;;
+F3091;KLS I;Lo;0;L;;;;;N;;;;;
+F3092;KLS U;Lo;0;L;;;;;N;;;;;
+F3093;KLS E;Lo;0;L;;;;;N;;;;;
+F3094;KLS O;Lo;0;L;;;;;N;;;;;
+
+F3095;KLS KA;Lo;0;L;;;;;N;;;;;
+F3096;KLS KI;Lo;0;L;;;;;N;;;;;
+F3097;KLS KU;Lo;0;L;;;;;N;;;;;
+F3098;KLS KE;Lo;0;L;;;;;N;;;;;
+F3099;KLS KO;Lo;0;L;;;;;N;;;;;
+
+F309A;KLS SA;Lo;0;L;;;;;N;;;;;
+F309B;KLS SHI;Lo;0;L;;;;;N;;;;;
+F309C;KLS SU;Lo;0;L;;;;;N;;;;;
+F309D;KLS SE;Lo;0;L;;;;;N;;;;;
+F309E;KLS SO;Lo;0;L;;;;;N;;;;;
+
+F309F;KLS TA;Lo;0;L;;;;;N;;;;;
+F30A0;KLS CHI;Lo;0;L;;;;;N;;;;;
+F30A1;KLS TSU;Lo;0;L;;;;;N;;;;;
+F30A2;KLS TE;Lo;0;L;;;;;N;;;;;
+F30A3;KLS TO;Lo;0;L;;;;;N;;;;;
+
+F30A4;KLS NA;Lo;0;L;;;;;N;;;;;
+F30A5;KLS NI;Lo;0;L;;;;;N;;;;;
+F30A6;KLS NU;Lo;0;L;;;;;N;;;;;
+F30A7;KLS NE;Lo;0;L;;;;;N;;;;;
+F30A8;KLS NO;Lo;0;L;;;;;N;;;;;
+
+F30A9;KLS HA;Lo;0;L;;;;;N;;;;;
+F30AA;KLS HI;Lo;0;L;;;;;N;;;;;
+F30AB;KLS FU;Lo;0;L;;;;;N;;;;;
+F30AC;KLS HE;Lo;0;L;;;;;N;;;;;
+F30AD;KLS HO;Lo;0;L;;;;;N;;;;;
+
+F30AE;KLS MA;Lo;0;L;;;;;N;;;;;
+F30AF;KLS MI;Lo;0;L;;;;;N;;;;;
+F30B0;KLS MU;Lo;0;L;;;;;N;;;;;
+F30B1;KLS ME;Lo;0;L;;;;;N;;;;;
+F30B2;KLS MO;Lo;0;L;;;;;N;;;;;
+
+F30B3;KLS YA;Lo;0;L;;;;;N;;;;;
+F30B4;KLS YU;Lo;0;L;;;;;N;;;;;
+F30B5;KLS YO;Lo;0;L;;;;;N;;;;;
+
+F30B6;KLS RA;Lo;0;L;;;;;N;;;;;
+F30B7;KLS RI;Lo;0;L;;;;;N;;;;;
+F30B8;KLS RU;Lo;0;L;;;;;N;;;;;
+F30B9;KLS RE;Lo;0;L;;;;;N;;;;;
+F30BA;KLS RO;Lo;0;L;;;;;N;;;;;
+
+F30BB;KLS WA;Lo;0;L;;;;;N;;;;;
+F30BC;KLS WO;Lo;0;L;;;;;N;;;;;
+
+F30BD;KLS DAKUTEN;Mn;0;NSM;;;;;N;;;;;
+F30BE;KLS HANDAKUTEN;Mn;0;NSM;;;;;N;;;;;
+F30BF;KLS VOICING MARK;Mn;0;NSM;;;;;N;;;;;
+
+F30C0;KLS KYA;Lo;0;L;;;;;N;;;;;
+F30C1;KLS KYU;Lo;0;L;;;;;N;;;;;
+F30C2;KLS KYO;Lo;0;L;;;;;N;;;;;
+F30C3;KLS SHA;Lo;0;L;;;;;N;;;;;
+F30C4;KLS SHU;Lo;0;L;;;;;N;;;;;
+F30C5;KLS SHO;Lo;0;L;;;;;N;;;;;
+F30C6;KLS CHA;Lo;0;L;;;;;N;;;;;
+F30C7;KLS CHU;Lo;0;L;;;;;N;;;;;
+F30C8;KLS CHO;Lo;0;L;;;;;N;;;;;
+F30C9;KLS NYA;Lo;0;L;;;;;N;;;;;
+F30CA;KLS NYU;Lo;0;L;;;;;N;;;;;
+F30CB;KLS NYO;Lo;0;L;;;;;N;;;;;
+F30CC;KLS RYA;Lo;0;L;;;;;N;;;;;
+F30CD;KLS RYU;Lo;0;L;;;;;N;;;;;
+F30CE;KLS RYO;Lo;0;L;;;;;N;;;;;
+F30CF;KLS MYA;Lo;0;L;;;;;N;;;;;
+
+F30D0;KLS COMMA;Po;0;L;;;;;N;;;;;
+F30D1;KLS PERIOD;Po;0;L;;;;;N;;;;;
+F30D2;KLS QUESTION MARK;Po;0;L;;;;;N;;;;;
+F30D3;KLS EXCLAMATION MARK;Po;0;L;;;;;N;;;;;
+F30D4;KLS MIDDLE DOT;Po;0;L;;;;;N;;;;;
+F30D5;KLS WORD JOINER;Cf;0;L;;;;;N;;;;;
+
+F30D6;KLS DIGIT ZERO;Nd;0;L;;;;0;N;;;;
+F30D7;KLS DIGIT ONE;Nd;0;L;;;;1;N;;;;
+F30D8;KLS DIGIT TWO;Nd;0;L;;;;2;N;;;;
+F30D9;KLS DIGIT THREE;Nd;0;L;;;;3;N;;;;
+F30DA;KLS DIGIT FOUR;Nd;0;L;;;;4;N;;;;
+F30DB;KLS DIGIT FIVE;Nd;0;L;;;;5;N;;;;
+F30DC;KLS DIGIT SIX;Nd;0;L;;;;6;N;;;;
+F30DD;KLS DIGIT SEVEN;Nd;0;L;;;;7;N;;;;
+F30DE;KLS DIGIT EIGHT;Nd;0;L;;;;8;N;;;;
+F30DF;KLS DIGIT NINE;Nd;0;L;;;;9;N;;;;
+
+F30E0;<reserved>;Cn;0;L;;;;;N;;;;;
+F30E1;<reserved>;Cn;0;L;;;;;N;;;;;
+F30E2;<reserved>;Cn;0;L;;;;;N;;;;;
+F30E3;<reserved>;Cn;0;L;;;;;N;;;;;
+F30E4;<reserved>;Cn;0;L;;;;;N;;;;;
+F30E5;<reserved>;Cn;0;L;;;;;N;;;;;
+F30E6;<reserved>;Cn;0;L;;;;;N;;;;;
+F30E7;<reserved>;Cn;0;L;;;;;N;;;;;
+F30E8;<reserved>;Cn;0;L;;;;;N;;;;;
+F30E9;<reserved>;Cn;0;L;;;;;N;;;;;
+F30EA;<reserved>;Cn;0;L;;;;;N;;;;;
+F30EB;<reserved>;Cn;0;L;;;;;N;;;;;
+F30EC;<reserved>;Cn;0;L;;;;;N;;;;;
+F30ED;<reserved>;Cn;0;L;;;;;N;;;;;
+F30EE;<reserved>;Cn;0;L;;;;;N;;;;;
+F30EF;<reserved>;Cn;0;L;;;;;N;;;;;
+F30F0;<reserved>;Cn;0;L;;;;;N;;;;;
+F30F1;<reserved>;Cn;0;L;;;;;N;;;;;
+F30F2;<reserved>;Cn;0;L;;;;;N;;;;;
+F30F3;<reserved>;Cn;0;L;;;;;N;;;;;
+F30F4;<reserved>;Cn;0;L;;;;;N;;;;;
+F30F5;<reserved>;Cn;0;L;;;;;N;;;;;
+F30F6;<reserved>;Cn;0;L;;;;;N;;;;;
+F30F7;<reserved>;Cn;0;L;;;;;N;;;;;
+F30F8;<reserved>;Cn;0;L;;;;;N;;;;;
+F30F9;<reserved>;Cn;0;L;;;;;N;;;;;
+F30FA;<reserved>;Cn;0;L;;;;;N;;;;;
+F30FB;<reserved>;Cn;0;L;;;;;N;;;;;
+F30FC;<reserved>;Cn;0;L;;;;;N;;;;;
+F30FD;<reserved>;Cn;0;L;;;;;N;;;;;
+F30FE;<reserved>;Cn;0;L;;;;;N;;;;;
+F30FF;<reserved>;Cn;0;L;;;;;N;;;;;
