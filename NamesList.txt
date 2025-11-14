@@ -78,7 +78,3 @@ F30DC    KLS DIGIT SIX
 F30DD    KLS DIGIT SEVEN
 F30DE    KLS DIGIT EIGHT
 F30DF    KLS DIGIT NINE
-F30E0    <reserved>
-F30E1    <reserved>
-...
-F30FF    <reserved>
