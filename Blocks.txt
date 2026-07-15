@@ -1,1 +1,1 @@
-F3300..F336F; Kanarazian Line Syllabary
+F4400..F446F; Kanarazian
